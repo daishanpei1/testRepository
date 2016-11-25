@@ -1,0 +1,6 @@
+--- pige.txt	2016-11-24 15:53:36.286298800 +0800
++++ 1.txt	2016-11-24 15:55:14.747930500 +0800
+@@ -1 +1 @@
+-xiaopipi 99999
+\ No newline at end of file
++wushiyinishigeshabi
